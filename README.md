@@ -1,6 +1,6 @@
 # Testimonial Cards
 
-This project is part of [roadmap.sh](https://roadmap.sh/projects/testimonial-cards) Frontend projects.
+**Project URL:** https://roadmap.sh/projects/testimonial-cards
 
 A responsive testimonial cards component built with HTML and CSS, demonstrating various layout and positioning techniques including Flexbox, Grid, absolute positioning, and pseudo-elements.
 
